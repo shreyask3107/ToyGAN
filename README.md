@@ -1,11 +1,6 @@
-# Current Progress:
-  * Made the code compatible to `text8`
-  * Did a test run of training of `text8` on `gan` model
+# Description
 
-# TODO:
-  * Currently, the `gan` model when trained converges to 0 loss just after 2 iterations. Needs to be checked.
-  * The `gan` model is not compatible with testing the metrics. Need to make changes to incorporate the same.
-  * Test the model on `argmax_gan` which is specifically for the discrete case. Fine tuning would be required for the same.
+In this project, we attempt to create a generative model for discrete data.
 
 # Generative Models on Various Datasets
 
